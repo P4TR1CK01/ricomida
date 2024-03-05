@@ -1,0 +1,43 @@
+header .navbar a {
+  color: white;
+  font-family: "Cabin"; sans-serif;
+  font-optical-sizing: auto;
+  font-weight:400;
+  font-style: normal;
+  font-variation-settings: "wdth" 100;
+}
+
+header .navbar a:hover {
+  color: cadetblue;
+}
+
+#font_log {
+  font-family: "Lobster", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 2rem;
+}
+
+header-1 .h1 {
+margin: 3rem;
+font.size: 2rem;
+padding-bottom: 2rem;
+border-bottom: 0.1rem solid black;
+}
+
+header-1 .h4 {
+  font-size: 1.5rem;
+  text-align: center;
+}
+
+.fotos img {
+  width: 14rem;
+}
+
+.btn-1 {
+  margin-top: 6rem;
+}
+
+.btn-2 {
+  margin-top: 6rem;
+}
