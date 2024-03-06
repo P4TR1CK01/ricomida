@@ -20,7 +20,7 @@ header .navbar a:hover {
 
 header-1 .h1 {
 margin: 3rem;
-font.size: 2rem;
+font-size: 2rem;
 padding-bottom: 2rem;
 border-bottom: 0.1rem solid black;
 }
@@ -40,4 +40,5 @@ header-1 .h4 {
 
 .btn-2 {
   margin-top: 6rem;
-}
+} 
+/* Path: assets/css/style.css */
